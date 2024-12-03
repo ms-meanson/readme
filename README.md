@@ -11,11 +11,12 @@ Keen to expand their expertise, **MS** is actively seeking opportunities to gain
 I love to hear from you. Whether you have a question or just want to chat about design, tech &amp; art — shoot me a message.
 
 Have a nice day.
-# More Info:
-
-**Website:** www.meansonit.store ,
-**Telegram:** https://t.me/MeanSON , 
-**Facebook:** https://www.facebook.com/SONMean.IT ,
-**Instagram:** https://www.instagram.com/_ms.it/
+### 📫 How to reach me:
+- **Website:** [www.meansonit.store](www.meansonit.store)  
+- **GitHub:** [ms-meanson](https://github.com/ms-meanson)  
+- **Email:** [info@meansonit.store](mailto:info@meansonit.store)
+- **Telegram:** [MeanSON](https://t.me/MeanSON)  
+- **Facebook:** [SONMean.IT](https://www.facebook.com/SONMean.IT)  
+- **Instagram:** [ms.it](https://www.instagram.com/_ms.it)
 
 
